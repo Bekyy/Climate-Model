@@ -1,4 +1,4 @@
-# Climate-Model Brief Description 
+# Brief Description 
 Assessing the impact of climate change on the Gilgel Gibe watershed using machine learning involves leveraging advanced computational techniques to analyze complex relationships between environmental variables, climate patterns, and watershed characteristics. Machine learning (ML) methods offer powerful tools for predicting, modeling, and understanding the effects of climate change on hydrological processes within the watershed. 
 ## Data Collection and Preparation
 Machine learning models require extensive and diverse datasets to train and validate their algorithms. Relevant data for assessing climate change impacts in the Gilgel Gibe watershed may include historical climate data (temperature, precipitation, humidity), hydrological data (river flow, water levels), land use/land cover maps, soil characteristics, and topographical information (elevation, slope). Data collection and preprocessing are crucial steps to ensure data quality and compatibility for machine learning analysis.
